@@ -6,7 +6,7 @@ export const StyledPageWrapper = styled.div`
   padding: 200px;
 `
 
-export const StyledMyPage = styled.div`
+export const StyledDogPage = styled.div`
   display: grid;
   overflow: none;
 `
